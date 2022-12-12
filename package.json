@@ -19,7 +19,7 @@
   "dependencies": {
     "bluebird": "3.5.5",
     "classnames": "2.2.6",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "file-loader": "4.2.0",
     "lodash": "4.17.15",
     "socket.io": "2.2.0",
